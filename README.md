@@ -3,4 +3,4 @@
 
 
 📱 CMKL MAP App(ips_app) : User Guide
-[CMKLMAP_App.User.Guide.pdf](CMKLMAP_App.User.Guide.pdf)
+[CMKLMAP_App.User.Guide.pdf](https://github.com/Scottish-fold2003/ips-application-repo/issues/2#issue-4172167029)
